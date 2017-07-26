@@ -3,7 +3,7 @@ configuration:
 server:
   port: 8001
 message:
-  greeting: Esto debe ser un mensaje modificado desde local
+  greeting: Esto debe ser un mensaje modificado desde local2
 spring:
   profiles:
     active: development
