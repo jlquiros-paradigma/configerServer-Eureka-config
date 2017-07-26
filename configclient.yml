@@ -3,7 +3,7 @@ configuration:
 server:
   port: 8001
 message:
-  greeting: 22Hello from the configuration! Probando a configurar por cuarta vez456
+  greeting: 22Hello from the configuration! Probando a configurar por cuarta vez4567
 spring:
   profiles:
     active: development
