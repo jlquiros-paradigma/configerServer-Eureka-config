@@ -3,7 +3,7 @@ configuration:
 server:
   port: 8001
 message:
-  greeting: Esto debe ser un mensaje modificado otra vez
+  greeting: Esto debe ser un mensaje modificado esde github
 spring:
   profiles:
     active: development
