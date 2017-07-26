@@ -3,7 +3,7 @@ configuration:
 server:
   port: 8001
 message:
-  greeting: Esto debe ser un mensaje modificado otra vez 23
+  greeting: Esto debe ser un mensaje modificado otra vez 234
 spring:
   profiles:
     active: development
