@@ -1,2 +1,22 @@
 user:
   role: Developer
+
+security:
+  user:
+    name: root
+    password: root2
+
+#management:
+#  security:
+#    enabled: true
+
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+#  instance:
+#    statusPageUrlPath: /my_info
+#    healthCheckUrlPath: /my_health
+
+
