@@ -3,7 +3,7 @@ configuration:
 server:
   port: 8001
 message:
-  greeting: yala 22Hello from the configuration! Probando a configurar por cuarta vez45678908restol
+  greeting: Esto debe ser un mensaje modificado
 spring:
   profiles:
     active: development

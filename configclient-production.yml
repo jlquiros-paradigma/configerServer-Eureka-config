@@ -9,4 +9,4 @@ eureka:
 security:
   user:
     name: root
-    password: root2
+    password: root3
