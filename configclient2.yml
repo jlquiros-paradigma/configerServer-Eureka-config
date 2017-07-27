@@ -1,5 +1,5 @@
 configuration:  
-  projectName: configclient2
+  projectName: configclient
 server:
   port: 8002
 message:
