@@ -1,5 +1,8 @@
 configuration:  
-  projectName: configclient256y
+  projectName: configclient2
+spring:
+  application:
+    name: configclient
 server:
   port: 8002
 message:
