@@ -5,6 +5,8 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
+    healthcheck:
+      enable: true
   instance:
     statusPageUrlPath: /my_info
     healthCheckUrlPath: /my_health
