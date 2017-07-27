@@ -1,6 +1,7 @@
 user:
   role: User
-
+server:
+  port: 8004
 eureka:
   client:
     serviceUrl:

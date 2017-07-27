@@ -1,7 +1,5 @@
 configuration:  
   projectName: configclient
-server:
-  port: 8001
 message:
   greeting: Welcome to autoRefresh Config Server!
 spring:
