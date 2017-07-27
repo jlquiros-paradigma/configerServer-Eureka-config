@@ -1,7 +1,6 @@
 user:
   role: Developer
-server:
-  port: 8003
+
 security:
   user:
     name: root
